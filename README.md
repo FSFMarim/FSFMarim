@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+LEMBRE-SE
+Você escreve código.
+O compilador transforma seu código-fonte em código de bytes.
+O código vai para a máquina virtual Python.
+A Máquina Virtual executa as instruções de código uma por uma.
+Tudo funciona!
